@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack Pro - Gestão Financeira Inteligente",
+  "description": "Uma aplicação moderna e intuitiva para substituir planilhas financeiras, permitindo lançamentos diários de entradas (Dinheiro, PIX, Cartão) e saídas, com cálculo automático de markup e visualização de desempenho através de dashboards interativos.",
+  "requestFramePermissions": []
+}
